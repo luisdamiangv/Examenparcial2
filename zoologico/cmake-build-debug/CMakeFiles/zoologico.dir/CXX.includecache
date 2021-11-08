@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/damia/CLionProjects/zoologico/Animales.h
+
+C:/Users/damia/CLionProjects/zoologico/main.cpp
+iostream
+-
+Animales.h
+C:/Users/damia/CLionProjects/zoologico/Animales.h
+
